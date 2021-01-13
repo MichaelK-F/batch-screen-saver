@@ -1,2 +1,2 @@
 # batch-screen-saver
-Batch screensaver.
+This is a batch screensaver.
